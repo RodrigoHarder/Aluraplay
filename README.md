@@ -18,10 +18,6 @@ Desenvolvimento da página inicial da  Alura Play, utilizando a metodologia mobi
 - Uso de media queries para tornar o layout responsivo para diferentes dispositivos;
 - Porpriedades utilizadas: `overflow` (criar barra de rolagem), `align-items` (alinhar conteúdo do container fora do eixo principal) , `align-self` (alinhar item a item) , `justify-content` (alinhar conteudo do conatiner dentro do eixo principal) , `gap` (espaçamento entre os itens de um container) , `white-space` (especifica como um espaço em branco dentro de um elemento é tratado), `position:fixed` , `display: flex/none/block` , `width` , `height` , `flex-flow` (ajusta tanto a direção quanto a quebra de linhas), `flex-direction` , `order` , `padding` , `flex-grow` (aumento dos itens ao diminuir ou aumentar a página) ,  `flex-shrink` (diminuição dos itens ao diminuir ou aumentar a página);
 
-## **Funcionalidades**
-
-Para ter acesso ao projeto e tudo que ele possui basta clicar [neste link](https://rodrigoharder.github.io/alura-play/).
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
